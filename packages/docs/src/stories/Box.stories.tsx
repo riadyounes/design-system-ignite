@@ -3,7 +3,7 @@ import { Box, BoxProps } from '@ignite-ui/react/src/components/Box'
 import { Text } from '@ignite-ui/react'
 
 export default {
-  title: 'Surfaces/Box',
+  title: 'Layout/Box',
   component: Box,
   args: {
     children: (
