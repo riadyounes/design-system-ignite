@@ -21,6 +21,7 @@ const config = {
     getAbsolutePath("@storybook/addon-interactions"),
     getAbsolutePath("@storybook/addon-styling-webpack"),
     getAbsolutePath("@storybook/addon-themes"),
+    "@storybook/addon-a11y"
   ],
   framework: {
     name: getAbsolutePath("@storybook/react-vite"),
